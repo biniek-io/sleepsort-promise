@@ -1,0 +1,27 @@
+{
+  "name": "sleepsort-promise",
+  "version": "1.0.0",
+  "description": "Implementation of the sleep sort in JS/ES6",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tst/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/biniek-io/sleepsort-promise.git"
+  },
+  "keywords": [
+    "sleepsort",
+    "joke",
+    "es6"
+  ],
+  "author": "Michal Biniek",
+  "license": "NLPL",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.1.2"
+  },
+  "engines": {
+    "node": ">=6.x"
+  }
+}
